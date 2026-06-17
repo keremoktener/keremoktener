@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Kerem</h1>
-<h3 align="center">Fullstack Java Developer</h3>
+<h1 align="center">Fullstack Developer</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenan-kerem-öktener-9a05ab1b9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@k.keremoktener) 
