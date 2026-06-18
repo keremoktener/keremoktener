@@ -1,5 +1,22 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenan-kerem-öktener-9a05ab1b9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@k.keremoktener) 
 
+## 🤖 AI Experience:
+![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-111827?style=flat&logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-412991?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=googlegemini&logoColor=white)
+![RLHF](https://img.shields.io/badge/RLHF-2E7D32?style=flat&logo=databricks&logoColor=white)
+![Data Annotation](https://img.shields.io/badge/Data%20Annotation-0052CC?style=flat&logo=opsgenie&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6A1B9A?style=flat&logo=tensorflow&logoColor=white)
+![Safety Evaluation](https://img.shields.io/badge/Safety%20Evaluation-C62828?style=flat&logo=trustpilot&logoColor=white)
+![SWE Bench](https://img.shields.io/badge/SWE--Bench-181717?style=flat&logo=github&logoColor=white)
+![Code Review](https://img.shields.io/badge/AI%20Code%20Review-0A66C2?style=flat&logo=githubcopilot&logoColor=white)
+![Vision Language Evaluation](https://img.shields.io/badge/Vision--Language%20Evaluation-009688?style=flat&logo=googlelens&logoColor=white)
+![Labelbox](https://img.shields.io/badge/Labelbox-000000?style=flat&logo=labelbox&logoColor=white)
+![Scale AI](https://img.shields.io/badge/Scale%20AI-1A1A1A?style=flat&logo=scaleway&logoColor=white)
+![Prodigy](https://img.shields.io/badge/Prodigy-5C2D91?style=flat&logo=python&logoColor=white)
+![Doccano](https://img.shields.io/badge/Doccano-3B82F6?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
