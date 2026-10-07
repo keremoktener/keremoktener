@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenan-kerem-öktener-9a05ab1b9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@k.keremoktener) 
 
-## 🤖 AI Experience:
+## 🤖 AI Development:
 ![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-111827?style=flat&logo=openai&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-412991?style=flat&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=googlegemini&logoColor=white)
